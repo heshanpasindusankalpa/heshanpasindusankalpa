@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heshan Pasindu</h1>
 <h3 align="center">Second year Computer Engineering (UG) , Faculty of Engineering University of Ruhuna/Youtuber/Robotics and ML Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="heshanpasindusankalpa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="heshanpasindusankalpa" /> </p>
 
 - 🌱 I’m currently learning **Machine Learning,Web Development,Embedded System**
 
