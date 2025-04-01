@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="heshanpasindusankalpa" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning,Web Development,Embedded System**
+- 🌱 I’m currently learning **Machine Learning,Image Processing ,IoT,Embedded System**
 
 - 💬 Ask me about **Arduino**
 
