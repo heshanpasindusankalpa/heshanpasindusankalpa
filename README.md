@@ -49,9 +49,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-premiere-pro-1.svg" alt="premierepro" width="40" height="40"/> 
-  </a>
+  
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> 
   </a>
