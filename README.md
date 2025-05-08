@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Heshan Pasindu</h1>
-<h3 align="center">Second year Computer Engineering (UG), Faculty of Engineering University of Ruhuna / Youtuber / Robotics Enthusiast/Computer vision</h3>
+<h3 align="center">Second year Computer Engineering (UG), Faculty of Engineering University of Ruhuna / Youtuber / Robotics Enthusiast/Embedded system/Computer vision</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="heshanpasindusankalpa" /> 
