@@ -76,15 +76,16 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
-  
-  <!-- New Logos -->
+
+  <!-- Hosted Logos -->
   <a href="https://kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Kicad_logo.svg" alt="kicad" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/assets/kicad.jpg" alt="kicad" width="40" height="40"/>
   </a>
   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.freertos.org/images/freertos.png" alt="freertos" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/assets/rtos.png" alt="freertos" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
