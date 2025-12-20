@@ -40,6 +40,11 @@
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" alt="raspberrypi" width="40" height="40"/> 
   </a>
+  <a href="https://docs.ros.org/en/rolling/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg"
+       alt="ros2" width="40" height="40"/>
+  </a>
+
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
   </a>
