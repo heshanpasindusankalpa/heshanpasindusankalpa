@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Machine Learning, Image Processing, IoT, Embedded System**
 
-- 💬 Ask me about **Arduino**
-
 - 📫 How to reach me **pasindusankalpa2021@gmail.com / https://www.youtube.com/channel/UCRmG3ordGIKBZsZixCaKnUw**
 
 - ⚡ Fun fact **A robotics hobbyist**
