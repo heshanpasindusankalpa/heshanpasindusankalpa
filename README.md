@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pasindusankalpa2021@gmail.com / https://www.youtube.com/channel/UCRmG3ordGIKBZsZixCaKnUw**
 
-- ⚡ Fun fact **A robotics hobbyist**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
