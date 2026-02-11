@@ -82,7 +82,7 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
 
 <!-- FreeRTOS -->
-<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/freertos.png" width="40"/>
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" width="40"/>
 
 </p>
 
