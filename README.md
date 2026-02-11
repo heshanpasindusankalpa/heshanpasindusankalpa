@@ -79,10 +79,10 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
 <!-- KiCad -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/KiCad_logo.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
 
 <!-- FreeRTOS -->
-<img src="https://www.freertos.org/wp-content/uploads/2018/07/cropped-FreeRTOS_Logo.png" width="40"/>
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/freertos.png" width="40"/>
 
 </p>
 
