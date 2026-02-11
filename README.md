@@ -44,7 +44,10 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 
 ## 🛠 Languages and Tools
 <p align="left">
-
+<!-- KiCad -->
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
+<!-- ROS2 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
 <!-- Linux -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 
@@ -54,8 +57,7 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 <!-- ESP32 -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Espressif_logo.svg" width="40"/>
 
-<!-- ROS2 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
+
 
 <!-- Arduino -->
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
@@ -78,8 +80,7 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 <!-- C++ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
 
-<!-- KiCad -->
-<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
+
 
 <!-- FreeRTOS -->
 <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" width="40"/>
