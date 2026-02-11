@@ -82,7 +82,7 @@
 
   <!-- Hosted Logos -->
   <a href="https://kicad.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad logo.png" alt="kicad" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" alt="kicad" width="40" height="40"/>
   </a>
   <a href="https://www.freertos.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" alt="freertos" width="40" height="40"/>
