@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Heshan Pasindu</h1>
+
 <h3 align="center">
-Second year Computer Engineering (UG), Faculty of Engineering University of Ruhuna <br>
+Second Year Computer Engineering Undergraduate <br>
+Faculty of Engineering, University of Ruhuna <br>
 YouTuber | Robotics Enthusiast | Embedded Systems | Computer Vision
 </h3>
 
@@ -8,74 +10,97 @@ YouTuber | Robotics Enthusiast | Embedded Systems | Computer Vision
   <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
-- 🌱 I’m currently learning **Machine Learning, Image Processing, IoT, Embedded Systems**
-- 📫 How to reach me: **pasindusankalpa2021@gmail.com**
+---
+
+### 🌱 Currently Learning  
+- Machine Learning  
+- Computer Vision  
+- IoT & Embedded Systems  
+- Robotics & Autonomous Systems  
+
+### 📫 Contact  
+- Email: **pasindusankalpa2021@gmail.com**  
+- YouTube: https://www.youtube.com/@heshanpasindu  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+## 🌐 Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/heshanpasindu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
   <a href="https://fb.com/heshanpasindu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
   </a>
   <a href="https://instagram.com/heshanpasindu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
   <a href="https://www.youtube.com/@heshanpasindu" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠 Languages and Tools
 <p align="left">
 
+<!-- Linux -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+
+<!-- STM32 -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/STMicroelectronics_logo.svg" width="40"/>
+
+<!-- ESP32 -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Espressif_logo.svg" width="40"/>
+
+<!-- ROS2 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
+
+<!-- Arduino -->
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+
+<!-- Raspberry Pi -->
+<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40"/>
+
+<!-- OpenCV -->
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+
+<!-- TensorFlow -->
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+
+<!-- Python -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+
+<!-- C -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+
+<!-- C++ -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+
 <!-- KiCad -->
-<a href="https://kicad.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40" height="40"/>
-</a>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/KiCad_logo.svg" width="40"/>
 
 <!-- FreeRTOS -->
-<a href="https://www.freertos.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" width="40" height="40"/>
-</a>
-
-<a href="https://www.arduino.cc/" target="_blank">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-</a>
-
-<a href="https://www.raspberrypi.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40"/>
-</a>
-
-<a href="https://opencv.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-</a>
-
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-</a>
-
-<a href="https://www.espressif.com/en/products/socs/esp32" target="_blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</a>
+<img src="https://www.freertos.org/wp-content/uploads/2018/07/cropped-FreeRTOS_Logo.png" width="40"/>
 
 </p>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heshanpasindusankalpa&layout=compact" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=heshanpasindusankalpa&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanpasindusankalpa&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=heshanpasindusankalpa&show_icons=true" />
-</p>
+---
+
+## 🚀 About Me
+I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, AI, and Autonomous Vehicles**.  
+I build robotics projects, IoT systems, and AI-based applications and share them on YouTube.
+
+---
+
+⭐ **Feel free to check out my projects and subscribe to my channel!**
