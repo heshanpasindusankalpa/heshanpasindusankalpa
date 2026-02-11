@@ -13,10 +13,9 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 ---
 
 ### 🌱 Currently Learning  
-- Machine Learning  
-- Computer Vision  
-- IoT & Embedded Systems  
-- Robotics & Autonomous Systems  
+- RL  
+- TinyML 
+- SLAM
 
 ### 📫 Contact  
 - Email: **pasindusankalpa2021@gmail.com**  
