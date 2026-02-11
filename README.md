@@ -49,7 +49,7 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 
 <!-- STM32 -->
-<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/stm32.png" width="40"/>
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/images.jpg" width="40"/>
 
 <!-- ESP32 -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Espressif_logo.svg" width="40"/>
