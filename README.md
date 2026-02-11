@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Heshan Pasindu</h1>
 
 <h3 align="center">
-Second Year Computer Engineering Undergraduate <br>
+Third Year Computer Engineering Undergraduate <br>
 Faculty of Engineering, University of Ruhuna <br>
-YouTuber | Robotics Enthusiast | Embedded Systems | Computer Vision
+Embedded Systems | Robotics Enthusiast | YouTuber 
 </h3>
 
 <p align="center"> 
@@ -86,16 +86,11 @@ YouTuber | Robotics Enthusiast | Embedded Systems | Computer Vision
 
 </p>
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heshanpasindusankalpa&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heshanpasindusankalpa&layout=compact&theme=tokyonight" width="48%"/>
-</p>
 
----
+
+
 
 ## 🚀 About Me
 I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, AI, and Autonomous Vehicles**.  
@@ -103,4 +98,4 @@ I build robotics projects, IoT systems, and AI-based applications and share them
 
 ---
 
-⭐ **Feel free to check out my projects and subscribe to my channel!**
+
