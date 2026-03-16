@@ -13,7 +13,7 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 ---
 
 ### 🌱 Currently Learning  
-- RL  
+- RL(DQN) 
 - TinyML 
 - SLAM
 
