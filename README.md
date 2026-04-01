@@ -15,12 +15,32 @@ Embedded Systems | Robotics | YouTuber
 ---
 
 ## 🚀 About Me
-I am a Computer Engineering undergraduate with a strong interest in embedded systems, electronics, and
-Robotics. Hands-on experience in PCB design, microcontroller programming, embedded communica
-tion, sensor integration, and IoT systems. Focused on embedded system architecture with an emphasis
-on efficient and low-power design for real-time applications. Actively learning to combine electronics
-with real-time programming to build optimized solutions for Edge AI and embedded systems, while
-continuously expanding knowledge in emerging technologies
+I am a Computer Engineering undergraduate with a strong interest in embedded systems, electronics, and robotics.  
+I have hands-on experience in PCB design, microcontroller programming, embedded communication, sensor integration, and IoT systems.  
+
+My focus is on embedded system architecture with an emphasis on efficient and low-power design for real-time applications.  
+I am actively learning to combine electronics with real-time programming to build optimized solutions for Edge AI and embedded systems, while continuously expanding my knowledge in emerging technologies.
+
+---
+
+## 🛠 Languages and Tools
+<p align="left">
+
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/images.jpg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Espressif_logo.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" width="40"/>
+
+</p>
 
 ---
 
@@ -48,27 +68,3 @@ continuously expanding knowledge in emerging technologies
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40"/>
   </a>
 </p>
-
----
-
-## 🛠 Languages and Tools
-<p align="left">
-
-<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/images.jpg" width="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Espressif_logo.svg" width="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" width="40"/>
-
-</p>
-
-
-
