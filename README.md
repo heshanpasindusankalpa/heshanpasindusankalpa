@@ -6,17 +6,23 @@ Faculty of Engineering, University of Ruhuna <br>
 Embedded Systems | Robotics | YouTuber 
 </h3>
 
-
 ---
+
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
 </p>
 
 ---
 
-### 🌱 Currently Learning  
-- RL(DQN),TinyML,SLAM
+## 🚀 About Me
+I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, Artificial Intelligence, and Autonomous Systems**.  
+I enjoy building real-world engineering projects such as robots, IoT systems, and AI-powered embedded applications.  
+I also share my work and learning journey through my YouTube channel.
 
+---
+
+### 🌱 Currently Learning  
+- RL (DQN), TinyML, SLAM
 
 ### 📫 Contact  
 - Email: **pasindusankalpa2021@gmail.com**  
@@ -44,57 +50,22 @@ Embedded Systems | Robotics | YouTuber
 
 ## 🛠 Languages and Tools
 <p align="left">
-<!-- KiCad -->
+
 <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/kicad-logo.png" width="40"/>
-<!-- ROS2 -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ros/ros-original.svg" width="40"/>
-<!-- Linux -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-
-<!-- STM32 -->
 <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/images.jpg" width="40"/>
-
-<!-- ESP32 -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Espressif_logo.svg" width="40"/>
-
-
-
-<!-- Arduino -->
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40"/>
-
-<!-- Raspberry Pi -->
 <img src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg" width="40"/>
-
-<!-- OpenCV -->
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
-
-<!-- TensorFlow -->
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-
-<!-- Python -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-
-<!-- C -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-
-<!-- C++ -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-
-
-
-<!-- FreeRTOS -->
 <img src="https://raw.githubusercontent.com/heshanpasindusankalpa/heshanpasindusankalpa/main/rtos.png" width="40"/>
 
 </p>
-
-##🚀About Me
-I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, AI, and Autonomous Vehicles**.  
-I build robotics projects, IoT systems, and AI-based applications and share them on YouTube.
-
-
-
-
-
 
 
 
