@@ -6,7 +6,9 @@ Faculty of Engineering, University of Ruhuna <br>
 Embedded Systems | Robotics | YouTuber 
 </h3>
 
-
+🚀About Me
+I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, AI, and Autonomous Vehicles**.  
+I build robotics projects, IoT systems, and AI-based applications and share them on YouTube.
 ---
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
@@ -87,9 +89,7 @@ Embedded Systems | Robotics | YouTuber
 
 </p>
 
-## 🚀 About Me
-I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, AI, and Autonomous Vehicles**.  
-I build robotics projects, IoT systems, and AI-based applications and share them on YouTube.
+## 
 
 
 
