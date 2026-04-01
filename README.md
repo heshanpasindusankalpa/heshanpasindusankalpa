@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Heshan Pasindu</h1>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
+
 <h3 align="center">
 Computer Engineering Undergraduate 
 Faculty of Engineering, University of Ruhuna <br>
 Embedded Systems | Robotics | YouTuber 
 </h3>
-
----
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=heshanpasindusankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
-</p>
 
 ---
 
