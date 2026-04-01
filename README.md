@@ -13,9 +13,8 @@ Embedded Systems | Robotics Enthusiast | YouTuber
 ---
 
 ### 🌱 Currently Learning  
-- RL(DQN) 
-- TinyML 
-- SLAM
+- RL(DQN),TinyML,SLAM
+
 
 ### 📫 Contact  
 - Email: **pasindusankalpa2021@gmail.com**  
