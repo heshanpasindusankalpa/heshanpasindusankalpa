@@ -3,7 +3,7 @@
 <h3 align="center">
 Computer Engineering Undergraduate 
 Faculty of Engineering, University of Ruhuna <br>
-Embedded Systems | Robotics Enthusiast | YouTuber 
+Embedded Systems | Robotics | YouTuber 
 </h3>
 
 <p align="center"> 
