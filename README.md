@@ -13,7 +13,7 @@ Embedded Systems | Robotics | YouTuber
 ---
 
 ## 🚀 About Me
-I am a Computer Engineering undergraduate with a strong interest in embedded systems, electronics, and robotics, with hands-on experience in PCB design, microcontroller programming, embedded communication, sensor integration, and IoT systems. My focus is on embedded system architecture with an emphasis on efficient and low-power design for real-time applications, and I am actively working on combining electronics with real-time programming to build optimized solutions for Edge AI and embedded systems while continuously expanding my knowledge in emerging technologies.
+I am a Computer Engineering undergraduate with a strong interest in embedded systems, electronics, and robotics, with hands-on experience in PCB design, microcontroller programming, embedded communication, sensor integration, and IoT systems. My focus is on embedded system architecture with an emphasis on efficient and low-power design for real-time applications, and I am actively working on combining electronics with real-time programming to build optimized solutions for Edge AI. 
 
 ---
 
