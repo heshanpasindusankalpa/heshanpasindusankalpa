@@ -6,7 +6,7 @@ Faculty of Engineering, University of Ruhuna <br>
 Embedded Systems | Robotics | YouTuber 
 </h3>
 
-🚀About Me
+##🚀About Me
 I am a Computer Engineering undergraduate passionate about **Robotics, Embedded Systems, AI, and Autonomous Vehicles**.  
 I build robotics projects, IoT systems, and AI-based applications and share them on YouTube.
 ---
