@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Heshan Pasindu</h1>
 
 <h3 align="center">
-Third Year Computer Engineering Undergraduate <br>
+Computer Engineering Undergraduate 
 Faculty of Engineering, University of Ruhuna <br>
 Embedded Systems | Robotics Enthusiast | YouTuber 
 </h3>
